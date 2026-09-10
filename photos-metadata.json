@@ -6211,6 +6211,13 @@
           "manager": "钱琼",
           "source": "rental",
           "category": "owner"
+        },
+        {
+          "id": "8d90e2265f24b155",
+          "path": "photos/104118156323/mtsiqo2w_22l3lv.png",
+          "source": "rental",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
         }
       ]
     },
@@ -7196,6 +7203,20 @@
           },
           "_missing": false,
           "_verified": false
+        },
+        {
+          "id": "caba1f006089d37e",
+          "path": "photos/104110008150/mtsi4yby_w45ir4.jpg",
+          "source": "rental",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
+        },
+        {
+          "id": "e9b9237b888222a0",
+          "path": "photos/104110008150/ownermsg_mtsd7bn8_u07x1g.jpg",
+          "source": "presale",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
         }
       ],
       "104116348850": [
@@ -7236,6 +7257,13 @@
           },
           "_missing": false,
           "_verified": true
+        },
+        {
+          "id": "55ad9326fb8fe123",
+          "path": "photos/104116352555/mtscv7ky_f9daog.jpg",
+          "source": "rental",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
         }
       ],
       "104117778687": [
@@ -7256,6 +7284,27 @@
           },
           "_missing": false,
           "_verified": true
+        },
+        {
+          "id": "de236f1858def4ab",
+          "path": "photos/104117778687/mtselm6p_tlq06b.jpg",
+          "source": "rental",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
+        },
+        {
+          "id": "850472aa0d72d806",
+          "path": "photos/104117778687/mtselxwt_x2bxtv.jpg",
+          "source": "rental",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
+        },
+        {
+          "id": "518f0e24e601aa79",
+          "path": "photos/104117778687/ownermsg_mtsen4h3_5pxoyl.jpg",
+          "source": "presale",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
         }
       ],
       "104114001961": [
@@ -7316,6 +7365,20 @@
           },
           "_missing": false,
           "_verified": true
+        },
+        {
+          "id": "8c1144784e765f8a",
+          "path": "photos/104120050427/mtse0xzb_ylhia5.jpg",
+          "source": "rental",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
+        },
+        {
+          "id": "8ec2846b9673b6e8",
+          "path": "photos/104120050427/owner_mtse1c6p_en0emw.jpg",
+          "source": "rental",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
         }
       ],
       "104119686719": [
@@ -7336,6 +7399,20 @@
           },
           "_missing": false,
           "_verified": true
+        },
+        {
+          "id": "52d83b1a806e6e36",
+          "path": "photos/104119686719/owner_mtsgjkmz_amtbjh.jpg",
+          "source": "rental",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
+        },
+        {
+          "id": "b4dc781e8f50788d",
+          "path": "photos/104119686719/ownermsg_mtsgiuhg_m0g8ho.jpg",
+          "source": "presale",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
         }
       ],
       "104116791515": [
@@ -7356,6 +7433,20 @@
           },
           "_missing": false,
           "_verified": true
+        },
+        {
+          "id": "33d27cb6a0d6fc6a",
+          "path": "photos/104116791515/owner_mtspchao_3zo900.jpg",
+          "source": "rental",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
+        },
+        {
+          "id": "eba5e210b9d78cf9",
+          "path": "photos/104116791515/ownermsg_mtspbbfz_oxar4u.jpg",
+          "source": "presale",
+          "uploadedAt": 1789013227889,
+          "autoRepaired": true
         }
       ]
     },
@@ -21769,6 +21860,13 @@
         "manager": "田杨",
         "source": "rental",
         "category": "business"
+      },
+      {
+        "id": "6e16758ecf98159e",
+        "path": "photos/104118648055/mttlb6ec_d9ue6l.jpg",
+        "source": "rental",
+        "uploadedAt": 1789013227889,
+        "autoRepaired": true
       }
     ],
     "104117735467": [
@@ -22478,6 +22576,20 @@
         },
         "_missing": false,
         "_verified": true
+      },
+      {
+        "id": "72565703bef846f4",
+        "path": "photos/104112857235/owner_mtu3whb4_vjqag1.jpg",
+        "source": "rental",
+        "uploadedAt": 1789013227889,
+        "autoRepaired": true
+      },
+      {
+        "id": "30a08769cb389872",
+        "path": "photos/104112857235/ownermsg_mtu3zn61_r625km.jpg",
+        "source": "presale",
+        "uploadedAt": 1789013227889,
+        "autoRepaired": true
       }
     ],
     "104114474075": [
@@ -22642,13 +22754,36 @@
         },
         "_missing": false,
         "_verified": true
+      },
+      {
+        "id": "1163cf9765f6ff63",
+        "path": "photos/104117813577/owner_mtuwqpq1_l8c6fy.jpg",
+        "source": "rental",
+        "uploadedAt": 1789013227889,
+        "autoRepaired": true
+      },
+      {
+        "id": "dfdf2f35a4e73008",
+        "path": "photos/104117813577/ownermsg_mtuwr9y8_uhght4.png",
+        "source": "presale",
+        "uploadedAt": 1789013227889,
+        "autoRepaired": true
       }
     ],
     "_restoreSignal": {
       "ts": 1789012949712,
       "requester": "自动体检",
       "missingFile": 15
-    }
+    },
+    "104118678803": [
+      {
+        "id": "2e20359de5bc5f2c",
+        "path": "photos/104118678803/mttl8qz5_qfmbyj.jpg",
+        "source": "rental",
+        "uploadedAt": 1789013227889,
+        "autoRepaired": true
+      }
+    ]
   },
-  "syncTime": "2026-09-10T04:02:29.712Z"
+  "syncTime": "2026-09-10T04:07:07.000Z"
 }
